@@ -1,1 +1,7 @@
-node_modules
+/node_modules
+/cypress/screenshots
+/cypress/videos
+cypress/reports
+cypress/downloads
+cypress/results
+cypress/cucumber-cucumberJson
