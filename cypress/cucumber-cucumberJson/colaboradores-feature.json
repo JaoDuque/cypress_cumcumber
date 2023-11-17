@@ -1,0 +1,102 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Seccção colaboradores",
+    "line": 3,
+    "id": "seccção-colaboradores",
+    "tags": [],
+    "uri": "colaboradores.feature",
+    "elements": [
+      {
+        "id": "seccção-colaboradores;cadastro-novo-colaborador",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "Cadastro novo colaborador",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "login e realizado",
+            "result": {
+              "status": "passed",
+              "duration": 5508000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "acesso o menu de colaboradores",
+            "result": {
+              "status": "passed",
+              "duration": 1830000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "clico em adicionar novo colaborador",
+            "result": {
+              "status": "passed",
+              "duration": 1799000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "adiciono um novo colaborador",
+            "result": {
+              "status": "passed",
+              "duration": 2352000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "seccção-colaboradores;buscar-colaborador",
+        "keyword": "Scenario",
+        "line": 12,
+        "name": "Buscar colaborador",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "login e realizado",
+            "result": {
+              "status": "passed",
+              "duration": 4635000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "acesso o menu de colaboradores",
+            "result": {
+              "status": "passed",
+              "duration": 1494000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "busco um colaborador",
+            "result": {
+              "status": "passed",
+              "duration": 1010000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
