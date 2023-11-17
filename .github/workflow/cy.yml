@@ -1,4 +1,4 @@
-name: ProdutoApi
+name: e2e-cucumber-gherkin
 on: [push]
 jobs:
   cypress-run:
@@ -10,10 +10,8 @@ jobs:
         uses: cypress-io/github-action@v6
         with:
           browser: chrome
-      - name: Merge results
-        run: npm run report:merge
       - name: Generate results
-        run: npm run report:generate
+        run: npm run generate:report
       - name: Deploy reports page
         uses: peaceiris/actions-gh-pages@v3
         with:

@@ -4,6 +4,7 @@ class ColaboradoresPage {
     botao = () => cy.get('button')
     span = () => cy.get('span')
     inputSearch = () => cy.get('input[placeholder="Type for hints..."]');
+    
     menuColaboradores(){
         this.span().contains('PIM').click()
     }

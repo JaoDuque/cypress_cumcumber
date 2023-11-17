@@ -1,14 +1,14 @@
 [
   {
     "keyword": "Feature",
-    "name": "Seccção colaboradores",
+    "name": "Seção colaboradores",
     "line": 3,
-    "id": "seccção-colaboradores",
+    "id": "seção-colaboradores",
     "tags": [],
     "uri": "colaboradores.feature",
     "elements": [
       {
-        "id": "seccção-colaboradores;cadastro-novo-colaborador",
+        "id": "seção-colaboradores;cadastro-novo-colaborador",
         "keyword": "Scenario",
         "line": 8,
         "name": "Cadastro novo colaborador",
@@ -22,7 +22,7 @@
             "name": "login e realizado",
             "result": {
               "status": "passed",
-              "duration": 13262000000
+              "duration": 6355000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "acesso o menu de colaboradores",
             "result": {
               "status": "passed",
-              "duration": 1504000000
+              "duration": 1843000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "clico em adicionar novo colaborador",
             "result": {
               "status": "passed",
-              "duration": 2768000000
+              "duration": 1867000000
             }
           },
           {
@@ -52,13 +52,13 @@
             "name": "adiciono um novo colaborador",
             "result": {
               "status": "passed",
-              "duration": 2565000000
+              "duration": 2542000000
             }
           }
         ]
       },
       {
-        "id": "seccção-colaboradores;buscar-colaborador",
+        "id": "seção-colaboradores;buscar-colaborador",
         "keyword": "Scenario",
         "line": 12,
         "name": "Buscar colaborador",
@@ -72,7 +72,7 @@
             "name": "login e realizado",
             "result": {
               "status": "passed",
-              "duration": 4445000000
+              "duration": 4866000000
             }
           },
           {
@@ -82,7 +82,7 @@
             "name": "acesso o menu de colaboradores",
             "result": {
               "status": "passed",
-              "duration": 1315000000
+              "duration": 1852000000
             }
           },
           {
@@ -92,7 +92,7 @@
             "name": "busco um colaborador",
             "result": {
               "status": "passed",
-              "duration": 1703000000
+              "duration": 901000000
             }
           }
         ]

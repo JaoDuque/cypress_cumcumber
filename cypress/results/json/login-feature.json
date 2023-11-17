@@ -31,7 +31,7 @@
             "name": "acesso a pagina de login",
             "result": {
               "status": "passed",
-              "duration": 5081000000
+              "duration": 3436000000
             }
           },
           {
@@ -41,7 +41,7 @@
             "name": "realizo o login com dados válidos",
             "result": {
               "status": "passed",
-              "duration": 2847000000
+              "duration": 2941000000
             }
           },
           {
@@ -51,7 +51,7 @@
             "name": "login é realizado com sucesso",
             "result": {
               "status": "passed",
-              "duration": 446000000
+              "duration": 599000000
             }
           }
         ]
@@ -76,7 +76,7 @@
             "name": "acesso a pagina de login",
             "result": {
               "status": "passed",
-              "duration": 1371000000
+              "duration": 1248000000
             }
           },
           {
@@ -86,7 +86,7 @@
             "name": "realizo login com \"Admin\" e \"123\"",
             "result": {
               "status": "passed",
-              "duration": 2722000000
+              "duration": 3504000000
             }
           },
           {
@@ -96,7 +96,7 @@
             "name": "alerta de dados incorretos é exibido",
             "result": {
               "status": "passed",
-              "duration": 488000000
+              "duration": 542000000
             }
           }
         ]
@@ -121,7 +121,7 @@
             "name": "acesso a pagina de login",
             "result": {
               "status": "passed",
-              "duration": 632000000
+              "duration": 748000000
             }
           },
           {
@@ -131,7 +131,7 @@
             "name": "realizo login com \"123\" e \"123\"",
             "result": {
               "status": "passed",
-              "duration": 2519000000
+              "duration": 2721000000
             }
           },
           {
@@ -141,7 +141,7 @@
             "name": "alerta de dados incorretos é exibido",
             "result": {
               "status": "passed",
-              "duration": 426000000
+              "duration": 546000000
             }
           }
         ]
@@ -166,7 +166,7 @@
             "name": "acesso a pagina de login",
             "result": {
               "status": "passed",
-              "duration": 573000000
+              "duration": 668000000
             }
           },
           {
@@ -176,7 +176,7 @@
             "name": "realizo login com \"\" e \"123\"",
             "result": {
               "status": "passed",
-              "duration": 1405000000
+              "duration": 1566000000
             }
           },
           {
@@ -186,7 +186,7 @@
             "name": "alerta de \"não preenchimento do username\" é exibido com sucesso",
             "result": {
               "status": "passed",
-              "duration": 13000000
+              "duration": 24000000
             }
           }
         ]
@@ -211,7 +211,7 @@
             "name": "acesso a pagina de login",
             "result": {
               "status": "passed",
-              "duration": 614000000
+              "duration": 735000000
             }
           },
           {
@@ -221,7 +221,7 @@
             "name": "realizo login com \"123\" e \"\"",
             "result": {
               "status": "passed",
-              "duration": 1502000000
+              "duration": 1660000000
             }
           },
           {
@@ -231,7 +231,7 @@
             "name": "alerta de \"não preenchimento da senha\" é exibido com sucesso",
             "result": {
               "status": "passed",
-              "duration": 20000000
+              "duration": 32000000
             }
           }
         ]

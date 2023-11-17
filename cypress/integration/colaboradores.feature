@@ -1,6 +1,6 @@
 # language: en
 
-Feature: Seccção colaboradores
+Feature: Seção colaboradores
     Background: realizar login
         Given login e realizado
         When acesso o menu de colaboradores
@@ -11,3 +11,4 @@ Feature: Seccção colaboradores
 
     Scenario: Buscar colaborador
         Then busco um colaborador 
+        
