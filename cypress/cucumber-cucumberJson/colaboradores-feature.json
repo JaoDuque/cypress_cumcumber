@@ -22,7 +22,7 @@
             "name": "login e realizado",
             "result": {
               "status": "passed",
-              "duration": 5508000000
+              "duration": 4655000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "acesso o menu de colaboradores",
             "result": {
               "status": "passed",
-              "duration": 1830000000
+              "duration": 1509000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "clico em adicionar novo colaborador",
             "result": {
               "status": "passed",
-              "duration": 1799000000
+              "duration": 1779000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "adiciono um novo colaborador",
             "result": {
               "status": "passed",
-              "duration": 2352000000
+              "duration": 2635000000
             }
           }
         ]
@@ -72,7 +72,7 @@
             "name": "login e realizado",
             "result": {
               "status": "passed",
-              "duration": 4635000000
+              "duration": 4665000000
             }
           },
           {
@@ -82,7 +82,7 @@
             "name": "acesso o menu de colaboradores",
             "result": {
               "status": "passed",
-              "duration": 1494000000
+              "duration": 2802000000
             }
           },
           {
@@ -92,7 +92,7 @@
             "name": "busco um colaborador",
             "result": {
               "status": "passed",
-              "duration": 1010000000
+              "duration": 1076000000
             }
           }
         ]
